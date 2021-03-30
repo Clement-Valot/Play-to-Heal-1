@@ -21,3 +21,18 @@ Notre solution utilise la manette adaptative Xbox, sorti en fin d’année 2
 Pour conclure, nous vous invitons à parcourir tous les documents disponibles pour plus d’informations sur le projet si vous n’êtes pas encore convaincu ! 
 
 Pour voir notre vidéo, c'est ici : https://www.youtube.com/watch?v=ymm1dOiisqM
+
+## Sommaire
+
+#### 3D modeling
+
+Vous trouverez dans ce dossier les modélisations des différentes pièces du boîtier Mono-muscle et Multi-muscle. Pour les deux versions du boîtier, 2 dossiers sont fournis: l'un contenant les pièces au format SolidWorks (.SLDASM) et l'autre au format .STL pour impression en 3D.
+
+#### Codes and libraries
+
+Les 2 sous dossiers (code multi muscles SIG et code multi muscles RAW) contiennent chacun le logo affiché sur l'écran OLED lors de l'allumage du boîtier, nommé "logo.h", et le code Arduino (C++) correspondant.
+
+#### Documentation
+
+Ce dossier est dédié pour toutes informations complémentaires au boîtier Play to Heal concernant: les différents composants électroniques, le filtrage numérique, l'analyse de coûts, etc... 
+Tous sont accessibles au format PDF.

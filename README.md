@@ -21,6 +21,7 @@ Notre solution utilise la manette adaptative Xbox, sorti en fin d’année 2
 Pour conclure, nous vous invitons à parcourir tous les documents disponibles pour plus d’informations sur le projet si vous n’êtes pas encore convaincu ! 
 
 Pour voir notre vidéo de présentation, c'est ici : https://www.youtube.com/watch?v=-XGQ_6M441o (version sous-titrée en anglais : https://www.youtube.com/watch?v=T63vXXvgbwU )
+
 Pour voir notre vidéo de démo, c'est par là : https://www.youtube.com/watch?v=D4KDB941Q0I 
 
 ## Sommaire
